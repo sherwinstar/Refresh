@@ -1079,7 +1079,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="20" id="vhI-e5-uin"/>
                                 </constraints>
-                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" sendsActionOnEndEditing="YES" alignment="left" placeholderString="Input serial code" drawsBackground="YES" id="5nd-b5-YHp">
+                                <textFieldCell key="cell" scrollable="YES" lineBreakMode="clipping" selectable="YES" editable="YES" sendsActionOnEndEditing="YES" alignment="left" placeholderString="Input license key" drawsBackground="YES" id="5nd-b5-YHp">
                                     <font key="font" metaFont="system" size="14"/>
                                     <color key="textColor" name="controlTextColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
@@ -1091,7 +1091,7 @@
                                     <constraint firstAttribute="width" constant="150" id="mXe-y9-8aX"/>
                                     <constraint firstAttribute="height" constant="20" id="zpq-jP-d12"/>
                                 </constraints>
-                                <textFieldCell key="cell" alignment="left" title="check searial code" drawsBackground="YES" id="VEB-xT-1cC">
+                                <textFieldCell key="cell" alignment="left" title="Awaiting license key." drawsBackground="YES" id="VEB-xT-1cC">
                                     <font key="font" metaFont="system" size="14"/>
                                     <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>

@@ -174,7 +174,6 @@
 			packageReferences = (
 				48984BD128ED5EA700652C64 /* XCRemoteSwiftPackageReference "HotKey" */,
 				48984BD428ED5ED700652C64 /* XCRemoteSwiftPackageReference "LaunchAtLogin" */,
-				4854CE6F28F10A6C004D3C1C /* XCRemoteSwiftPackageReference "LaunchAtLogin" */,
 			);
 			productRefGroup = EC376240279C641D003144C7 /* Products */;
 			projectDirPath = "";
@@ -465,14 +464,6 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		4854CE6F28F10A6C004D3C1C /* XCRemoteSwiftPackageReference "LaunchAtLogin" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/sindresorhus/LaunchAtLogin";
-			requirement = {
-				branch = main;
-				kind = branch;
-			};
-		};
 		48984BD128ED5EA700652C64 /* XCRemoteSwiftPackageReference "HotKey" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/soffes/HotKey";
